@@ -1,0 +1,16 @@
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\ClassLibrary2.dll
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\ClassLibrary2.pdb
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\lleyt\Desktop\Coding\C#\Algebra\UnitTests\obj\Debug\UnitTests.pdb
