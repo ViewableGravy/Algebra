@@ -16,8 +16,6 @@ namespace Algebra
             bool runProgram = true;
             string[] cmd;
             string[] response;
-            CreateVariableCommand crtCommand = new CreateVariableCommand();
-            AddCommand addCommand = new AddCommand();
             AllVariables Variables = new AllVariables();
 
             while (Menu < 1)
@@ -35,7 +33,7 @@ namespace Algebra
                                 break;
                             case "create":
                                 try {
-                                    response = crtCommand.Execute(cmd,Variables).Split(new char[] { ' ' });
+                                    response = CreateVariableCommand.Execute(cmd,Variables).Split(new char[] { ' ' });
                                     Variables.CreateVariable(response[1], float.Parse(response[2]));
                                 }
                                 catch (Exception ex) { Console.WriteLine(ex.Message); }
@@ -43,11 +41,17 @@ namespace Algebra
                             case "add":
                                 try
                                 {
-                                    Console.WriteLine(addCommand.Execute(cmd, Variables));
+                                    Console.WriteLine(AddCommand.Execute(cmd, Variables));
                                 }
                                 catch (Exception ex) { Console.WriteLine(ex.Message); }
                                 break;
-
+                            case "assign":
+                                try
+                                {
+                                    Console.WriteLine(AssignCommand.Execute(cmd,ref Variables));
+                                }
+                                catch (Exception ex) { Console.WriteLine(ex.Message); }
+                                break;
                             default:
                                 Console.WriteLine("Invalid command");
                                 break;

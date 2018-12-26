@@ -22,30 +22,32 @@ namespace Algebra
                 i = DisplayCommands();
             }
             if (i == 1)
-            {
                 return 1;
-            } else
+            else
                 return 0;
         }
 
         public static int DisplayCommands()
         {
             bool chosen = false;
-            //DisplayCommands();
-            while (chosen == false) {
-                int choice = Convert.ToInt16(Console.ReadLine());
-                switch (choice)
+            while (chosen == false)
+            {
+                string input = Console.ReadLine();
+                if (int.TryParse(input, out int choice))
                 {
-                    case 1:
-                        return 1;
-                    case 2:
-                        return DisplayVariableCommands();
-                    case 3:
-                        return DisplayAddOptions();
-                    case 4:
-                        return 2;
-                    default:
-                        break;
+                    switch (choice)
+                    {
+                        case 1:
+                            return 1;
+                        case 2:
+                            return DisplayVariableCommands();
+                        case 3:
+                            return DisplayAddOptions();
+                        case 4:
+                            return 2;
+                        default:
+                            break;
+                    }
                 }
                 Console.WriteLine("Please Enter a Valid Number");
             }

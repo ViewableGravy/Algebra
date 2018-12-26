@@ -43,9 +43,13 @@
   <ItemGroup>
     <Compile Include="AddCommand.cs" />
     <Compile Include="AllVariables.cs" />
+    <Compile Include="AssignCommand.cs" />
+    <Compile Include="boolClass.cs" />
     <Compile Include="CreateVariableCommand.cs" />
     <Compile Include="DisplayLists.cs" />
     <Compile Include="Error.cs" />
+    <Compile Include="Function.cs" />
+    <Compile Include="Group.cs" />
     <Compile Include="Variable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

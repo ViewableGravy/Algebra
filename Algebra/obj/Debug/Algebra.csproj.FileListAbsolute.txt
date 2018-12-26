@@ -8,3 +8,13 @@ C:\Users\lleyt\Desktop\Coding\C#\Algebra\Algebra\bin\Debug\ClassLibrary2.pdb
 C:\Users\lleyt\Desktop\Coding\C#\Algebra\Algebra\obj\Debug\Algebra.csproj.CopyComplete
 C:\Users\lleyt\Desktop\Coding\C#\Algebra\Algebra\obj\Debug\Algebra.exe
 C:\Users\lleyt\Desktop\Coding\C#\Algebra\Algebra\obj\Debug\Algebra.pdb
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\Algebra\bin\Debug\Algebra.exe.config
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\Algebra\bin\Debug\Algebra.exe
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\Algebra\bin\Debug\Algebra.pdb
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\Algebra\bin\Debug\ClassLibrary2.dll
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\Algebra\bin\Debug\ClassLibrary2.pdb
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\Algebra\obj\Debug\Algebra.csprojAssemblyReference.cache
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\Algebra\obj\Debug\Algebra.csproj.CoreCompileInputs.cache
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\Algebra\obj\Debug\Algebra.csproj.CopyComplete
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\Algebra\obj\Debug\Algebra.exe
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\Algebra\obj\Debug\Algebra.pdb

@@ -6,14 +6,10 @@ using System.Threading.Tasks;
 
 namespace Algebra
 {
-    public class AddCommand
+    public static class AddCommand
     {
-        public AddCommand()
-        {
 
-        }
-
-        public string Execute(string[] text, AllVariables vars)
+        public static string Execute(string[] text, AllVariables vars)
         {
             float count = 0;
             for (int i = 2; i < text.Length - 1; i = i + 2)

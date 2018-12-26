@@ -4,3 +4,9 @@ C:\Users\lleyt\Desktop\Coding\C#\Algebra\ClassLibrary2\obj\Debug\ClassLibrary2.c
 C:\Users\lleyt\Desktop\Coding\C#\Algebra\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
 C:\Users\lleyt\Desktop\Coding\C#\Algebra\ClassLibrary2\obj\Debug\ClassLibrary2.dll
 C:\Users\lleyt\Desktop\Coding\C#\Algebra\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Lleyton\Desktop\Coding\C#\Algebra\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

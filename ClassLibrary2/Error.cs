@@ -13,4 +13,10 @@ namespace Algebra
         public AddCommandException() { }
         public AddCommandException(string message) : base(message) { }
     }
+
+    class AssignCommandException : Exception
+    {
+        public AssignCommandException() { }
+        public AssignCommandException(string message) : base(message) { }
+    }
 }
