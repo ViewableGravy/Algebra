@@ -22,22 +22,28 @@ namespace Algebra
             Variable last = vars._variables.Last();
             for (int i = 1; i < text.Length; i = i + 2)
             {
-                
-                foreach (Variable var in vars._variables)
+                if (BoolClass.IsNumber(text[i]))
                 {
-                    if (text[i] == Convert.ToString(var.Name))
-                    {
-                        count = count + var.Value;
-                        break;
-                    }
-                    else if (var == last)
-                        throw new AddCommandException("the variable " + text[i] + " does not currently exist");
-
+                    count = count + float.Parse(text[i]);
                 }
-                Console.WriteLine("exit first each");
+                else
+                {
+                    foreach (Variable var in vars._variables)
+                    {
+                        if (text[i] == Convert.ToString(var.Name))
+                        {
+                            count = count + var.Value;
+                            break;
+                        }
+                        else if (var == last)
+                            if (!BoolClass.IsNumber(text[i].Substring(0, 1)))
+                                throw new AddCommandException($"The variable {text[i]} does not currently exist");
+                            else
+                                throw new AddCommandException($"{text[i]} is not a valid number");
+                    }
+                }
             }
             return Convert.ToString(count);
-            
         }
     }
 }
